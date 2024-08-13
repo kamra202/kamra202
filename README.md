@@ -1,4 +1,4 @@
-![logo](https://github.com/kamra202/kamra202/blob/main/github%20banner.png)
+![logo](https://github.com/kamra202/kamra202/blob/main/gitbanner.png)
 <h1 align="center">Hi 👋, I'm Kashish Kamra</h1>
 <h3 align="center">A Passionate Data Analyst dedicated to transforming raw data into actionable insights. Skilled in Python, SQL, and Power BI, I excel at solving complex problems and delivering data-driven solutions. Committed to continuous learning and staying ahead in the ever-evolving data landscape.</h3>
 
